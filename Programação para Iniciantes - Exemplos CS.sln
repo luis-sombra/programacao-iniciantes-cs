@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroPrograma", "PrimeiroPrograma\PrimeiroPrograma.csproj", "{49F064A8-D1B5-434C-B78B-C501B7ECB4A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluxoExecucaoExemplo", "FluxoExecucaoExemplo\FluxoExecucaoExemplo.csproj", "{0D2803FC-7DAF-4E15-9A63-1B8DB2E69667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{49F064A8-D1B5-434C-B78B-C501B7ECB4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49F064A8-D1B5-434C-B78B-C501B7ECB4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49F064A8-D1B5-434C-B78B-C501B7ECB4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2803FC-7DAF-4E15-9A63-1B8DB2E69667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2803FC-7DAF-4E15-9A63-1B8DB2E69667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2803FC-7DAF-4E15-9A63-1B8DB2E69667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2803FC-7DAF-4E15-9A63-1B8DB2E69667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
